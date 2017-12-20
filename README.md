@@ -1,2 +1,2 @@
 # Arcade
-Implements 2 GUI arcade games Breakout and Reversi. The pair programmed games are represnted with GUI, scores, inheritance, differenc levels, and animation. 
+Implements 2 GUI arcade games Breakout and Reversi. The pair programmed games are represented with GUI, scores, inheritance, difference levels, and animation. 
